@@ -1,0 +1,46 @@
+{
+  "product_list": [
+    {
+      "product_id": "sauce-labs-backpack",
+      "product_name": "Sauce Labs Backpack",
+      "product_descriptions": "carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.",
+      "product_price": 29.99,
+      "price_currency": "$"
+    },
+    {
+      "product_id": "sauce-labs-bike-light",
+      "product_name": "Sauce Labs Bike Light",
+      "product_descriptions": "A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.",
+      "product_price": 9.99,
+      "price_currency": "$"
+    },
+    {
+      "product_id": "sauce-labs-bolt-t-shirt",
+      "product_name": "Sauce Labs Bolt T-Shirt",
+      "product_descriptions": "Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.",
+      "product_price": 15.99,
+      "price_currency": "$"
+    },
+    {
+      "product_id": "sauce-labs-fleece-jacket",
+      "product_name": "Sauce Labs Fleece Jacket",
+      "product_descriptions": "It's not every day that you come across a midweight quarter-zip fleece jacket capable of handling everything from a relaxing day outdoors to a busy day at the office.",
+      "product_price": 49.99,
+      "price_currency": "$"
+    },
+    {
+      "product_id": "sauce-labs-onesie",
+      "product_name": "Sauce Labs Onesie",
+      "product_descriptions": "Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.",
+      "product_price": 7.99,
+      "price_currency": "$"
+    },
+    {
+      "product_id": "test.allthethings()-t-shirt-(red)",
+      "product_name": "Test.allTheThings() T-Shirt (Red)",
+      "product_descriptions": "This classic Sauce Labs t-shirt is perfect to wear when cozying up to your keyboard to automate a few tests. Super-soft and comfy ringspun combed cotton.",
+      "product_price": 15.99,
+      "price_currency": "$"
+    }
+  ]
+}
